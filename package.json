@@ -1,0 +1,19 @@
+{
+  "name": "angry_pickle_guy",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": "./card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
+  }
+}
